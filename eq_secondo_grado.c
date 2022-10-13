@@ -16,7 +16,7 @@ int main() {
     double delta;
     double ris_positivo, ris_negativo;
 
-    a = 0;
+    a = 2;
     b = 8;
     c = 7;
     
